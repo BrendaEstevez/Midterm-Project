@@ -1,0 +1,76 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 50px;
+    background-color: Green;
+    font-size: 50px;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+
+.firstImage {
+    height: 350px;
+}
+
+.start-button {
+    height: 40px;
+    color: Purple;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.endgame {
+    font-size: 50px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.SECImage {
+    max-width: 40%;
+}
+
+.Doubleclk {
+    font-size: 50px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.thirdImage {
+    max-width: 30%;
+
+
+}
+
+.flex-item-right {
+    flex: 50%;
+}
+
+.goodjob {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.fourthImage {
+    max-width: 30%;
+}
+.comeback {
+    font-size: 40px;
+    font-weight: bold;
+}
